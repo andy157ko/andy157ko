@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building a 16-bit CPU.<br>👯 I’m looking to collaborate on anything!<br>🌱 I’m currently learning Typescript.<br>💬 Ask me about LactoLevel!<br>⚡ Fun fact: I dance!
+🔭 I’m currently brainstorming new ideas.<br>👯 I’m looking to collaborate on anything!<br>🌱 I’m currently learning Typescript.<br>💬 Ask me about LactoLevel!<br>⚡ Fun fact: I dance!
 
 
 ## 🌐 Socials:
